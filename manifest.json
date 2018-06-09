@@ -1,0 +1,9 @@
+{
+	"name": "D3",
+	"description": "Integration with D3.js (via CDN)",
+	"version": "1.0.0",
+	"dependencies": {},
+	"js": [
+		"https://d3js.org/d3.v5.min.js"
+	]
+}
